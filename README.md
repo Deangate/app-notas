@@ -89,6 +89,10 @@ Este proyecto usa la licencia MIT. Revisa el archivo [LICENSE](LICENSE).
 ## Autor
 Hecho por **Deivi Anderson Galindo Tepe** - [GitHub](https://github.com/Deangate)
 
+```markdown
+Lee la [guia de contribucion](CONTRIBUTING.md) antes de enviar cambios.
+```
+
 
 
 
